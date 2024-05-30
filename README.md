@@ -1,46 +1,62 @@
-# Getting Started with Create React App
+# Parkside Coding Challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Frontend Developer
 
-## Available Scripts
+<picture>
+  <img width="200" alt="Parkside" src="https://www.parkside-interactive.com/app/themes/parkside_sage10/public/images/ps_logo.svg">
+</picture>
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+Welcome to the Parkside Coding Challenge! In this challenge, you'll dive into a world where robots have a singular passion: winning the Robo-Dance competition! In this universe, robots are avid dancers, constantly engaging in epic dance battles. Your mission is to create a simple frontend web application, ensuring these robotic dance-offs are as seamless and error-free as possible.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Installation
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+To install and run this ReactJS application, follow these steps:
 
-### `npm test`
+1. Clone the repository to your local machine:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```bash
+   git clone <repository-url>
+   ```
 
-### `npm run build`
+2. Navigate into the project directory:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   ```bash
+   cd <project-directory>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Install dependencies using npm or yarn:
 
-### `npm run eject`
+   ```bash
+   npm install
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+4. Start the development server:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   npm start
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+5. Open your browser and visit http://localhost:3000 to view the application.
+   ```bash
+   npm start
+   ```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Usage
 
-## Learn More
+Once the application is running, you can interact with it to create teams of robots, start new dance competitions, and view the leaderboard to see the results of past dance-offs.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Technologies Used
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- ReactJS
+- TypeScript
+- Redux
+- Axios
+- Shadcn UI
+- Jest
+
+## Credits
+
+This application was created as part of the Parkside Coding Challenge for Frontend Developers.
