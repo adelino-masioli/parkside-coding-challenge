@@ -17,13 +17,13 @@ To install and run this ReactJS application, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/adelino-masioli/parkside-coding-challenge.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd <project-directory>
+   cd parkside-coding-challenge
 
    ```
 
